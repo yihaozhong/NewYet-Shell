@@ -17,4 +17,4 @@ This is a command-line interpreter. It works as follows:
  - [x] processes created, destroyed, and managed.
  - [x] OS and system calls.
 
-
+The academic integrity policy will be strictly enforced. All violations will be reported to the Director of Undergraduate Studies and subject to disciplinary actions. PLEASE DO NOT COPY WITHOUT CITATION. You may not copy, reproduce, distribute, publish, display, perform, modify, create derivative works, transmit, or in any way exploit any such content, nor may you distribute any part of this content over any network, including a local area network, sell or offer it for sale, or use such content to construct any kind of database. 
